@@ -191,6 +191,8 @@ button
     font-size: 20px;
     background: transparent;
     font-weight: 600;
+    border: 2px solid #fff;
+    box-shadow: inset #7f7f7f 0px 0px 9px 0px;
 }
 button:hover
 {
@@ -202,4 +204,6 @@ button:hover
     text-shadow: #01fbde 0px 0px 20px;
     border: 2px #01fbde;
     color: #01fbde;
+    border: 2px solid #fff;
+    box-shadow: inset #7f7f7f 0px 0px 9px 0px;
 }
